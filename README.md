@@ -3,7 +3,7 @@
 ## Screenshots
 Here is a GIF demonstrating the QR Code Generator in action:
 
-![QR Code Generator Demo](output.gif)
+[QR Code Generator Demo](output.gif)
 
 ## Features
  - Input text to encode into a QR code
