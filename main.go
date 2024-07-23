@@ -42,6 +42,7 @@ func main() {
 		}
 		defer file.Close()
 
+		// Display the QR code image in the container
 		img := canvas.NewImageFromFile("qrcode.png")
 		img.FillMode = canvas.ImageFillContain
 		img.SetMinSize(fyne.NewSize(256, 256))
