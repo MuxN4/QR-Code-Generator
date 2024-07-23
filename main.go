@@ -29,6 +29,7 @@ func main() {
 			return
 		}
 
+		// Generate QR code and save to file
 		err := qrcode.WriteFile(data, qrcode.Medium, 256, "qrcode.png")
 		if err != nil {
 			dialog.ShowInformation("Error", "Failed to generate QR code", myWindow)
