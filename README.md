@@ -18,7 +18,7 @@ Ensure you have Go installed on your system. You can download it from the [offic
 Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/yourusername/qrcode-generator.git
+    git clone [https://github.com/yourusername/qrcode-generator.git](https://github.com/MuxN4/QR-Code-Generator.git)
     cd qrcode-generator
     ```
 
